@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Ibrahim first created the file
 Liam edit
-=======
-Ibrahim first created the file again....
->>>>>>> 9f32bc70ad07f043aaab0f391a276f358e63649d
